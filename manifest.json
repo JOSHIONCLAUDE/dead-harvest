@@ -1,0 +1,13 @@
+{
+  "name": "Dead Harvest",
+  "short_name": "Dead Harvest",
+  "description": "A 3D first-person zombie survival game. Hold out wave after wave on a haunted farm.",
+  "id": "./", "start_url": "./", "scope": "./",
+  "display": "fullscreen", "display_override": ["fullscreen", "standalone"], "orientation": "landscape",
+  "background_color": "#0a0f0a", "theme_color": "#0a0f0a", "categories": ["games", "entertainment"],
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
